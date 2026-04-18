@@ -8,8 +8,8 @@ Strategy & Ops professional turned builder: I work at the intersection of AI and
 
 | Project | What it does | Story |
 |---|---|---|
-| **[ai-product-sense-dashboard](https://github.com/joymec19/ai-product-sense-dashboard)** | Prompt-to-deployed competitive analysis and PRD generation — a portfolio-grade PM tool built without a dedicated eng team | [read the story →](https://www.linkedin.com/newsletters/everything-on-ai-india-7407415942562873344/) |
-| **[smart-scheduler](https://github.com/joymec19/smart-scheduler)** | Intelligent task management with smart rescheduling, nudges, and mental notes — built to replace broken to-do habits | [read the story →](https://www.linkedin.com/newsletters/everything-on-ai-india-7407415942562873344/) |
+| **[ai-product-sense-dashboard](https://github.com/joymec19/ai-product-sense-dashboard)** | Prompt-to-deployed competitive analysis and PRD generation — a portfolio-grade PM tool built without a dedicated eng team | [read the story →](https://www.linkedin.com/posts/joydeep-debnath-2784a618_from-single-prompts-to-ecosystems-what-activity-7441824949721444352-Cmfo?) |
+| **[smart-scheduler](https://github.com/joymec19/smart-scheduler)** | Intelligent task management with smart rescheduling, nudges, and mental notes — built to replace broken to-do habits | [read the story →]([(https://www.linkedin.com/posts/joydeep-debnath-2784a618_a-childish-idea-appeared-in-btn-a-jog-a-ugcPost-7436757359277785088-viyN?)) |
 
 ---
 
